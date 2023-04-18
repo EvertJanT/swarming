@@ -1,4 +1,4 @@
-# swarming
+# swarming - Boids
 
 demonstration of flock/swarm behaviour by applying 3 conditions
 1. objects will be inclined to follow single leader
